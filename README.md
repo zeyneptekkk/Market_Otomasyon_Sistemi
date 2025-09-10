@@ -79,5 +79,4 @@ Bu proje, **market satış ve yönetim işlemlerini kolaylaştırmak** amacıyla
 
 <img width="1145" height="794" alt="Ekran görüntüsü 2025-09-10 234944" src="https://github.com/user-attachments/assets/899f84c7-37a4-493a-a92c-73ba194cd492" />
 
-<img width="1157" height="755" alt="Ekran görüntüsü 2025-09-10 235002" src="https://github.com/user-attachments/assets/a1bf769e-c382-46d7-bb4a-45430cac2579" />
-
+![Uploading image.png…]()
