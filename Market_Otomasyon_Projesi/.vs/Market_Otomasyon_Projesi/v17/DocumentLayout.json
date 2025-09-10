@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\Market_Otomasyon_Projesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70E94AE7-DBD2-4E35-9592-CB340BD985AB}|Market_Otomasyon_Projesi.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\projelerim\\market_otomasyon_projesi\\meyvesebzepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E94AE7-DBD2-4E35-9592-CB340BD985AB}|Market_Otomasyon_Projesi.csproj|solutionrelative:meyvesebzepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E94AE7-DBD2-4E35-9592-CB340BD985AB}|Market_Otomasyon_Projesi.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\projelerim\\market_otomasyon_projesi\\meyvesebzepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70E94AE7-DBD2-4E35-9592-CB340BD985AB}|Market_Otomasyon_Projesi.csproj|solutionrelative:meyvesebzepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E94AE7-DBD2-4E35-9592-CB340BD985AB}|Market_Otomasyon_Projesi.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\projelerim\\market_otomasyon_projesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E94AE7-DBD2-4E35-9592-CB340BD985AB}|Market_Otomasyon_Projesi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E94AE7-DBD2-4E35-9592-CB340BD985AB}|Market_Otomasyon_Projesi.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\projelerim\\market_otomasyon_projesi\\controller\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E94AE7-DBD2-4E35-9592-CB340BD985AB}|Market_Otomasyon_Projesi.csproj|solutionrelative:controller\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E94AE7-DBD2-4E35-9592-CB340BD985AB}|Market_Otomasyon_Projesi.csproj|C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\Market_Otomasyon_Projesi\\dao\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E94AE7-DBD2-4E35-9592-CB340BD985AB}|Market_Otomasyon_Projesi.csproj|solutionrelative:dao\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\Market_Otomasyon_Projesi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\Market_Otomasyon_Projesi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T20:35:43.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MeyveSebzePanel.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\Market_Otomasyon_Projesi\\MeyveSebzePanel.cs",
+              "RelativeDocumentMoniker": "MeyveSebzePanel.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\Market_Otomasyon_Projesi\\MeyveSebzePanel.cs",
+              "RelativeToolTip": "MeyveSebzePanel.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAAjwAUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T20:16:08.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MeyveSebzePanel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\Market_Otomasyon_Projesi\\MeyveSebzePanel.cs",
+              "RelativeDocumentMoniker": "MeyveSebzePanel.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\Market_Otomasyon_Projesi\\MeyveSebzePanel.cs [Design]",
+              "RelativeToolTip": "MeyveSebzePanel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T20:16:06.522Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\Market_Otomasyon_Projesi\\controller\\Controller.cs",
+              "RelativeDocumentMoniker": "controller\\Controller.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\Market_Otomasyon_Projesi\\controller\\Controller.cs",
+              "RelativeToolTip": "controller\\Controller.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAASwG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T19:06:12.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\Market_Otomasyon_Projesi\\dao\\Repository.cs",
+              "RelativeDocumentMoniker": "dao\\Repository.cs",
+              "ToolTip": "C:\\Users\\hp\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\Market_Otomasyon_Projesi\\dao\\Repository.cs",
+              "RelativeToolTip": "dao\\Repository.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAArwM8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T00:59:17.39Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
